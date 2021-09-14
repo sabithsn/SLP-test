@@ -62,7 +62,6 @@ numpy==1.17.3
 numpydoc==0.7.0
 oauth==1.0.1
 olefile==0.45.1
-PAM==0.4.2
 pandas==0.25.1
 pandocfilters==1.4.2
 parso==0.1.1
