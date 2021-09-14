@@ -99,7 +99,6 @@ pytest-astropy==0.2.1
 pytest-doctestplus==0.1.2
 pytest-openfiles==0.2.0
 pytest-remotedata==0.2.0
-python-apt==1.6.5+ubuntu0.4
 python-dateutil==2.8.0
 python-debian==0.1.32
 python-magic==0.4.16
