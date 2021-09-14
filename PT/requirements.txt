@@ -17,7 +17,6 @@ Cython==0.26.1
 decorator==4.1.2
 docutils==0.14
 emcee==2.2.1
-entrypoints==0.2.3.post1
 fail2ban==0.10.2
 future==0.18.1
 gast==0.3.2
