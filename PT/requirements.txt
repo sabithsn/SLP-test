@@ -7,7 +7,6 @@ astropy==3.0
 attrs==17.4.0
 Babel==2.4.0
 bleach==2.1.2
-Brlapi==0.6.6
 certifi==2019.9.11
 chardet==3.0.4
 cloudpickle==0.5.2
