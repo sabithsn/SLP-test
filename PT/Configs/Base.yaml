@@ -15,7 +15,7 @@ training:
     random_seed: 27   # Random seed for initialisation
     optimizer: "adam"   # Chosen optimiser (adam, ..)
     learning_rate: 0.001   # Initial model learning rate
-    learning_rate_min: 0.0002 # Learning rate minimum, when training will stop
+    learning_rate_min: 0.00000 # Learning rate minimum, when training will stop
     weight_decay: 0.0   # Weight Decay
     clip_grad_norm: 5.0   # Gradient clipping value
     batch_size: 8    # Batch Size for training
