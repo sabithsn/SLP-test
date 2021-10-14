@@ -127,6 +127,7 @@ spyder==3.2.6
 ssh-import-id==5.7
 subword-nmt==0.3.6
 sympy==1.1.1
+tensorflow==1.14.0
 tensorboard==1.14.0
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
